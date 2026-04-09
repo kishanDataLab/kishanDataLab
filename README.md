@@ -12,19 +12,15 @@
 ## About Me
 
 ```python
-kishan = {
-    "name"       : "Kishan Masura",
-    "location"   : "Rajkot, Gujarat, India 🇮🇳",
-    "education"  : "Data Science & AI — IIIT Bangalore",
-    "background" : ["B.Com", "Operations Manager (E-commerce)"],
-    "building"   : "AXERON — Data Analytics & AI Automation Agency",
-    "goal"       : "International internship in Data Science / AI",
-    "interests"  : ["Data Journalism", "Financial Markets", "Chess", "Cricket"],
-    "contact"    : "kishanmasura123@gmail.com"
-}
-```
-
----
+kishan = 
+    name       : Kishan Masura
+    location   : Rajkot, Gujarat, India 🇮🇳
+    education  : Data Science & AI — IIIT Bangalore
+    background : B.Com", "Operations Manager (E-commerce)
+    building   : AXERON — Data Analytics & AI Automation Agency
+    goal       : International internship in Data Science / AI
+    interests  : Data Journalism", "Financial Markets", "Chess", "Cricket
+    contact    : kishanmasura123@gmail.com
 
 ## Tech Stack
 
