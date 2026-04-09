@@ -64,7 +64,7 @@ Analyzed 10+ years of Indian cricket match results against Sensex daily movement
 **Tech:** Python · Pandas · JavaScript · Chart.js · HTML/CSS  
 **Key finding:** Post-victory trading sessions show measurable upward bias in FMCG and media sectors.
 
-[![View Project](https://img.shields.io/badge/View_Dashboard-00F5D4?style=flat-square&logo=github&logoColor=black)](https://github.com/kishanDataLab/cricket-and-capital)
+[![View Project](https://img.shields.io/badge/View_Dashboard-00F5D4?style=flat-square&logo=github&logoColor=black)](https://kishandardatalab.github.io/cricket-and-capital)
 
 ---
 
@@ -76,7 +76,7 @@ Investigated constituency-level voter registration data for patterns inconsisten
 **Tech:** Python · Pandas · SQL · JavaScript · D3.js  
 **Approach:** Z-score outlier detection + geospatial clustering on public ECI datasets.
 
-[![View Project](https://img.shields.io/badge/View_Dashboard-F72585?style=flat-square&logo=github&logoColor=white)](https://github.com/kishanDataLab/ghost-voters)
+[![View Project](https://img.shields.io/badge/View_Dashboard-F72585?style=flat-square&logo=github&logoColor=white)](https://kishandardatalab.github.io/ghost-voters)
 
 ---
 
