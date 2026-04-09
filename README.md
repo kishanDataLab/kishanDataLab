@@ -20,7 +20,7 @@ kishan = {
     "building"   : "AXERON — Data Analytics & AI Automation Agency",
     "goal"       : "International internship in Data Science / AI",
     "interests"  : ["Data Journalism", "Financial Markets", "Chess", "Cricket"],
-    "contact"    : "kishan.masura@outlook.com"
+    "contact"    : "kishanmasura123@gmail.com"
 }
 ```
 
@@ -64,7 +64,7 @@ Analyzed 10+ years of Indian cricket match results against Sensex daily movement
 **Tech:** Python · Pandas · JavaScript · Chart.js · HTML/CSS  
 **Key finding:** Post-victory trading sessions show measurable upward bias in FMCG and media sectors.
 
-[![View Project](https://img.shields.io/badge/View_Dashboard-00F5D4?style=flat-square&logo=github&logoColor=black)](https://github.com/kishanDataLab/cricket-and-capital)
+[![View Project](https://img.shields.io/badge/View_Dashboard-00F5D4?style=flat-square&logo=github&logoColor=black)](https://kishandatalab.github.io/cricket-and-capital)
 
 ---
 
@@ -76,7 +76,7 @@ Investigated constituency-level voter registration data for patterns inconsisten
 **Tech:** Python · Pandas · SQL · JavaScript · D3.js  
 **Approach:** Z-score outlier detection + geospatial clustering on public ECI datasets.
 
-[![View Project](https://img.shields.io/badge/View_Dashboard-F72585?style=flat-square&logo=github&logoColor=white)](https://github.com/kishanDataLab/ghost-voters)
+[![View Project](https://img.shields.io/badge/View_Dashboard-F72585?style=flat-square&logo=github&logoColor=white)](https://kishandatalab.github.io/ghost-voters)
 
 ---
 
@@ -116,7 +116,7 @@ Building data analytics and AI automation solutions for restaurants, retail, and
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kishan_Masura-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishanmasura)
-[![Email](https://img.shields.io/badge/Email-kishan.masura@outlook.com-00F5D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:kishan.masura@outlook.com)
+[![Email](https://img.shields.io/badge/Email-kishanmasura123@gmail.com-00F5D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:kishanmasura123@gmail.com)
 [![AXERON](https://img.shields.io/badge/Agency-AXERON-gold?style=flat-square&logoColor=black)](https://axeron.io)
 
 </div>
